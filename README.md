@@ -9,5 +9,7 @@ Purpose of project is to encourage modification, mainteance, and distribution of
 Data made available using JSON file format (maintaned) and legacy formatted excel document (not maintained).
 
 Contact: 
+<br>
 Jorge Galvez, M.D.
-Ali Hassanpour, M.D. axhassa2@texaschildrens.org
+<br>
+<a href="https://aemail.com/Z6Vw">Ali Hassanpour, M.D.</a>
