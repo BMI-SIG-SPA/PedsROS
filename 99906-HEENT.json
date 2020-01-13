@@ -1,0 +1,127 @@
+{
+  "Eye": [
+    {
+      "Cataracts": [{
+        "Eye": [
+          "both eyes",
+          "left eye",
+          "right eye"
+        ],
+        "Type": [
+          "acquired",
+          "congenital"
+        ]
+      },
+      "Lenses in place"
+    ]
+    },
+    {
+      "Extraocular muscle disorder": [
+        "Nystagmus",
+        "Strabismus"
+      ]
+    },
+    "Eye/orbital trauma",
+    "Glaucoma",
+    "Retinoblastoma",
+    {
+      "Retinopathy of prematurity": [
+        "Grade I",
+        "Grade II",
+        "Grade III",
+        "Grade IV",
+        "resolved"
+      ]
+    },
+    {
+      "Visual acuity problem": [
+        "Contact lenses",
+        "Glasses"
+      ]
+    }
+  ],
+  "Nose": [
+    "Allergic rhinitis",
+    "Choanal atresia",
+    "Cleft nasal deformity",
+    "Deviated septum",
+    "Epistaxis",
+    "Frequent sinus infections",
+    "Nasal obstruction",
+    "Nasal polyps",
+    "Turbinate hypertrophy"
+  ],
+  "Mouth/Throat": [
+    "denotonsillar hypertrophy",
+    "Cleft lip",
+    "Cleft palate",
+    "Dental caries",
+    {
+      "Devices": [
+        "mandibular distractor",
+        "orthodontia",
+        "palate expander",
+        "palate obturator"
+      ]
+    },
+    "Macroglossia",
+    "Malocclusion",
+    {
+      "Obstructive sleep apnea": [
+        "Central",
+        "Obstructive",
+        "Sleep Study Date:",
+        "Results of Sleep Study (free text)",
+        "Sleep Apnea Treatment (free text)"
+      ]
+    },
+    "Peritonsillar abscess",
+    "Retropharyngeal abscess",
+    "Sialorrhea",
+    "Snoring",
+    "Tonsillar hypertrophy",
+    "VPI"
+  ],
+  "Upper Respiratory Infection": [
+    {
+      "Recent upper respiratory infection": [
+        "Cough",
+        "Fever",
+        "Runny nose",
+        "Wheezing",
+        "Upper Respiratory Infection Onset (free text)",
+        "Upper Respiratory Infection Last Symptoms (free text)",
+        "Comments for Upper Respiratory Infection (free text)"
+      ]
+    }
+  ],
+  "Tracheal": [
+    "Foreign body",
+    "Subglottic stenosis",
+    "Subglottic web",
+    "Tracheal compression",
+    "Tracheal reconstruction",
+    "Tracheal stricture",
+    "Tracheomalacia",
+    {
+      "Tracheostomy": [
+        "Insertion Date",
+        "Type (free text)",
+        "Size",
+        "Decannulation (free text)"
+      ]
+    }
+  ],
+  "Larynx": [
+    "Croup",
+    "Expiratory stridor",
+    "Inspiratory stridor",
+    "Laryngeal papillomatosis",
+    "Laryngomalacia",
+    "Stridor",
+    "Vocal cord paralysis, left",
+    "Vocal cord paralysis, right",
+    "Vocal cord paresis, left",
+    "Vocal cord paresis, right"
+  ]
+}

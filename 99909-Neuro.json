@@ -1,0 +1,78 @@
+{
+  "Developmental Defects": [
+    "Cerebral palsy",
+    "Cognitive impairment"
+  ],
+  "Congenital Defects": [
+    "Arnold-Chiari malformation",
+    "Hydrocephalus/VP shunt",
+    "Myelomeningocele"
+  ],
+  "Seizure Disorders": [
+    {
+      "Seizures": [
+        "focal",
+        "generalized"
+      ]
+    },
+    "Spasticity"
+  ],
+  "Neurovascular": [
+    "Aneurysm",
+    "Arteriovenous malformation",
+    "CVA",
+    {
+      "Intraventricular hemorrhage": [
+        "Grade I",
+        "Grade II",
+        "Grade III",
+        "Grade IV"
+      ]
+    },
+    "Moyamoya disease",
+    {
+      "Stroke": {
+        "Locality (hemisphere)": [
+          "right",
+          "left",
+          "bilateral"
+        ],
+        "Deficit type": [
+          "motor deficit",
+          "sensory deficit"
+        ]
+      }
+    },
+    "Vascular occlusion"
+  ],
+  "Neuromuscular": [
+    "Atrophy",
+    "Central core disease",
+    "Hypertonia",
+    "Hypotonia",
+    "Muscular dystrophy",
+    "Neuromuscular disease",
+    "SMA"
+  ],
+  "Trauma": [
+    "Brachial plexus injury",
+    "Cervical spine injury",
+    "Concussion",
+    "Peripheral nerve injury",
+    "Spinal cord injury",
+    "Traumatic brain injury"
+  ],
+  "Tumors": [
+    "Posterior fossa",
+    "Spinal cord",
+    "Supratentorial",
+    "Type of Neurologic Tumors (free text)"
+  ],
+  "Other Neurological Problems": [
+    "Dizziness/syncope",
+    "Encephalopathy",
+    "Headache",
+    "Meningitis",
+    "Peripheral neuropathy"
+  ]
+}

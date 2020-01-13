@@ -1,0 +1,26 @@
+{
+  "Nephritis": [
+    "lupus nephritis",
+    "membranoproliferative glomerulonephritis",
+    "post infectious glomerulonephritis"
+  ],
+  "Renal Failure": [
+    "ARF",
+    "CRI",
+    "CVVH",
+    "hemodialysis",
+    "peritoneal dialysis"
+  ],
+  "Renal Transplant": [
+    "cadaveric",
+    "living donor",
+    "multiple",
+    "Renal Transplant Data (Comments)",
+    "Comments for Renal Rejection History"
+  ],
+  "Renal Tumors": [
+    "Pheochromocytoma",
+    "Renal cell carcinoma",
+    "Wilms tumor"
+  ]
+}

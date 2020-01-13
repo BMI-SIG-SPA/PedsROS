@@ -1,0 +1,175 @@
+{
+  "Bronchopulmonary Conditions": [
+    "Aspiration",
+    {
+      "Asthma/RAD": [
+        {
+          "Last Episode of Wheezing": [
+            "today",
+            "< 1 week ago",
+            "< 1 month ago",
+            "< 6 months ago",
+            "< 1 year ago",
+            "> 1 year ago"
+          ]
+        },
+        {
+          "Inhaled Steroids": [
+            "effective",
+            "ineffective",
+            "not tried"
+          ]
+        },
+        [
+          "Last Admission for Asthma (free text)",
+          "Last Course of Steroids (free text)",
+          "Prior Intubation for Asthma",
+          "Comments for Asthma"
+        ]
+      ]
+    },
+    "Bronchiolitis",
+    "Bronchitis",
+    "Bronchomalacia",
+    {
+      "Chronic lung disease (BPD)": [
+        "Bronchodilator responsive",
+        "Oxygen Amount",
+        "Baseline O2 Sats",
+        "Comments for Pulmonary Function"
+      ]
+    },
+    "Congenital custic adenomatoid malformation",
+    "Congenital lobar emphysema",
+    {
+      "Cystic fibrosis": {
+        "Last Admission for Cystic Fibrosis": [
+          "< 1 week ago",
+          "< 1 month ago",
+          "< 6 months ago",
+          "< 1 year ago",
+          "> 1 year ago"
+        ],
+        "Pneumothorax": [
+          "Past",
+          "Present"
+        ],
+        "Cystic Fibrosis Status": [
+          "at baseline",
+          "better than baseline",
+          "worse than baseline",
+          "active pulmonary infection"
+        ]
+      }
+    },
+    "Hemoptysis",
+    {
+      "Lung transplant": {
+        "Laterality": [
+          "bilateral",
+          "left",
+          "right"
+        ],
+        "Lung Transplant Date": "Comment",
+        "Lung Rejection History": "Comment"
+      }
+    },
+    "Pulmonary bleb",
+    "Pulmonary hemorrhage",
+    "Pulmonary hypoplasia",
+    {
+      "Pulmonary infections": {
+        "Respiratory Culture": [
+          {
+            "RSV": [
+              "Require intubation",
+              "No intubation"
+            ]
+          },
+          "TB"
+        ]
+      }
+    },
+    "Restrictive lung disease",
+    "TE fistula/esophageal atresia",
+    "Tumors",
+    "Vascular ring",
+    "Comments for CT/MRI Results"
+  ],
+  "Oxygen Therapy": [
+    "aerosol mask",
+    "blow-by",
+    "continuous nebulizer",
+    "CPAP",
+    "face shield",
+    "high frequency oscillator",
+    "Jackson-Rees circuit",
+    "nasal cannula",
+    "non-rebreather",
+    "resuscitation bag",
+    "simple mask",
+    "trach collar,",
+    "BiPAP",
+    "concentrator",
+    "conventional ventilation",
+    "CPAP with CMV rate",
+    "high flow nasal cannula",
+    "intubated",
+    "mist tent",
+    "nasal cannula via vent",
+    "partial rebreather mask",
+    "room air",
+    "t-piece",
+    "venturi mask"
+  ],
+  "Mediastinum/Pleura/Diaphragm": [
+    {
+      "Mediastinal Mass": [
+        "anterior",
+        "posterior",
+        "Bronchial compression",
+        "Tracheal compression",
+        "Tracheal deviation"
+      ]
+    },
+    {
+      "Pleura": [
+        "Chylothorax",
+        "Empyema",
+        "Pleuritic pain",
+        "Pneumothorax"
+      ]
+    },
+    {
+      "Diaphram": [
+        {
+          "Diaphragmatic hernia": {
+            "Laterality": [
+              "bilateral",
+              "left",
+              "right"
+            ]
+          }
+        },
+        {
+          "Hiatal hernia": {
+            "Laterality": [
+              "bilateral",
+              "left",
+              "right"
+            ]
+          }
+        },
+        {
+          "Diaphragmatic paralysis": {
+            "Laterality": [
+              "bilateral",
+              "left",
+              "right"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

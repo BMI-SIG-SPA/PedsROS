@@ -1,0 +1,35 @@
+{
+  "Dermatologic": [
+    "Cavernous hemangioma",
+    "Contact dermatitis",
+    "Eczema",
+    "Epidermolysis bullosa",
+    "Dermatologic infections",
+    "Lymphangioma",
+    "Nevi",
+    "Post wine stain",
+    "Rashes",
+    "Urticaria"
+  ],
+  "Immunologic": [
+    "B-cell deficiency",
+    "T-cell deficiency",
+    "Immunoglobulin deficiency",
+    "Severe combined immunodeficiency"
+  ],
+  "Rheumatologic": [
+    "Ankylosing spondylitis",
+    "Dermatomyositis",
+    "Fibromyalgia",
+    "Juvenile rheumatoid arthritis",
+    "Raynaud's phenomenon",
+    "Scleroderma",
+    {
+      "Lupus": [
+        "discoid lupus erythematosus",
+        "systemic lupus erythematosus"
+      ]
+    },
+    "Vasculitis"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Gastroesophageal": [
+    {
+      "Abdominal pain": {
+        "Abdominal Pain Location": [
+          "LUG",
+          "LLQ",
+          "RUQ",
+          "RLQ",
+          "generalized"
+        ]
+      }
+    },
+    "Esophagitis",
+    "Achalasia",
+    "Dysphagia",
+    "Eosinophilic esophagitis",
+    {
+      "Esophageal stricture": [
+        "chemical burn",
+        "epidermolysis bullosa",
+        "post surgical"
+      ]
+    },
+    "Gastrostomy/jejunostomy",
+    {
+      "GERD": {
+        "GERD Confirmation": [
+          "By history",
+          "modified barium swallow",
+          "pH probe"
+        ]
+      },
+      "Resolution": "GERD resolved"
+    },
+    "Nausea",
+    "Pyloric stenosis",
+    "TE fistula/esophageal atresia",
+    "GI bleeding",
+    "Esophageal varices",
+    "Vomiting"
+  ],
+  "Bowel": [
+    "Celiac disease",
+    "Chronic abdominal pain",
+    "Acute abdominal pain",
+    "Constipation",
+    "Diarrhea",
+    "Hirschspring's disease",
+    "Imperforated anus",
+    {
+      "Inflammatory bowel disease": [
+        "Crohn's disease",
+        "Ulcerative colitis"
+      ]
+    },
+    "Intussusception",
+    "Rectal GI bleeding",
+    "Malrotation",
+    {
+      "Necrotizing enterocolitis": [
+        "medical necrotizing enterocolitis",
+        "surgical necrotizing enterocolitis"
+      ]
+    },
+    "Ostomy",
+    "Short bowel syndrome",
+    {
+      "Small bowel transplant": [
+        "Date",
+        "Comments"
+      ]
+    },
+    "Volvulus"
+  ],
+  "Abdominal Wall Defects": [
+    {
+      "Gastroschisis": [
+        "Staged repair"
+      ]
+    },
+    "Omphalocele",
+    {
+      "Inguinal hernia": [
+        "left",
+        "right",
+        "bilateral"
+      ]
+    },
+    "Umbilical hernia",
+    "Venral hernia"
+  ],
+  "Liver": [
+    {
+      "Biliary atresia": [
+        "failed kasai",
+        "kasai",
+        "untreated"
+      ]
+    },
+    "Gall stones/biliary obstruction",
+    {
+      "Hepatitis": [
+        "type A",
+        "type B",
+        "type C",
+        "autoimmune"
+      ]
+    },
+    "Hepatic/liver failure",
+    {
+      "Liver transplant": [
+        "Date",
+        {
+          "Type": [
+            "Living donor - lobar",
+            "Ortotopic",
+            "Heterotopic"
+          ]
+        },
+        "Comments"
+      ]
+    },
+    "Portal hypertension"
+  ],
+  "Pancreas": [
+    "Acute pancreatitis",
+    "Chronic pancreatitis",
+    "Pancreatic insufficiency"
+  ],
+  "Spleen": [
+    "Asplenia",
+    "Polysplenia",
+    "Enlarged spleen"
+  ],
+  "Nutrition": [
+    "Anorexia",
+    "Bulimia",
+    "Failure to thrive",
+    "Obesity",
+    "Oral aversion"
+  ],
+  "Feeding Method": [
+    "breast",
+    "bolus",
+    "bottle",
+    "continuous",
+    "dropper",
+    "finger",
+    "gastrostomy",
+    "intravascular",
+    "nasogastric",
+    "nasojejunal",
+    "NPO",
+    "orogastric",
+    "orojejunal",
+    "PO",
+    "transpyloric"
+  ]
+}

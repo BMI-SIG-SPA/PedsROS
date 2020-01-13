@@ -1,0 +1,44 @@
+{
+  "Endocrine Disorders": [
+    "Adrenal insufficiency",
+    "Diabetes insipidus",
+    "Electrolyte disorder",
+    "Hyperinsulinemia",
+    "Hyperparathyroidism",
+    "Hyperthyroid disease",
+    "Hypoglycemia",
+    "Hypothyroid disease",
+    "Hypopituitarism",
+    "Metabolic disorder",
+    "Obesity",
+    "Panhypopituitarism",
+    "Precocious puberty",
+    {
+      "Type I diabetes": [
+        "Age at Onset",
+        {
+          "Treatment": [
+            "diet",
+            "exercise",
+            "insulin dependent",
+            "medication dependent"
+          ]
+        }
+      ]
+    },
+    {
+      "Type II diabetes": [
+        "Age at Onset",
+        {
+          "Treatment": [
+            "diet",
+            "exercise",
+            "insulin dependent",
+            "medication dependent"
+          ]
+        }
+      ]
+    },
+    "Steroid therapy induced diabetes"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Cardiovascular": [
+    {
+      "Acquired heart disease": [
+        "Abnormal valve",
+        "Cardiac tumors",
+        {
+          "Cardiomyopathy": [
+            "arrhythmogenic right ventricular (ARVC)",
+            "dilated (DCM)",
+            "hypertrophic (HCM)",
+            "left ventricular non-compaction (LVNC)",
+            "restrictive (RCM)"
+          ]
+        },
+        "Chest pain",
+        "Endocarditis",
+        "Kawasaki",
+        "Pericardial effusion",
+        "Pericarditis"
+      ],
+      "Artificial valve": [
+        {
+          "Valve position": [
+            "aortic valve",
+            "mitral valve",
+            "pulmonary valve",
+            "tricuspid valve"
+          ]
+        },
+        "Anticoagulation therapy",
+        "Last Echo Date"
+      ]
+    },
+    "Cardiac arrhythmia",
+    "Atrial septal defect",
+    "Ventricular septal defect",
+    {
+      "Congenital heart disease": [
+        "coronary artery disease",
+        "bicuspid aortic valve",
+        "atrioventricular canal defect",
+        "coarctation of the aorta",
+        "double outlet right ventricle",
+        "ALCAPA",
+        "double-chambered right ventricle",
+        "double inlet left ventricle",
+        "Ebstein anomaly",
+        "heterotaxy",
+        "hypoplastic left heart",
+        "left atrial isomerism",
+        "right atrial isomerism",
+        "levo-transposition of the great arteries",
+        "non-compaction cardiomyopathy",
+        "pulmonary atresia (VSD)",
+        "pulmonary atresia (IVS)",
+        "patent ductus arteriosus",
+        "patent foramen ovale",
+        "pulmonic stenosis",
+        "single ventricle defect",
+        "tricuspid atresia",
+        "tetralogy of Fallot",
+        "major aortopulmonary collateral artery"
+      ],
+      "Vascular occlusion": [
+        "SVC",
+        "IVC",
+        "LFA",
+        "LFV",
+        "RFA",
+        "RFV"
+      ]
+    },
+    [
+      "Congestive heart failure",
+      "Coronary artery disease",
+      "Hypertension",
+      "Known benign murmur",
+      "Murmur",
+      "Pacemaker",
+      "Pulmonary hypertension",
+      "Syncope",
+      "Heart transplant",
+      {
+        "Heart/lung transplant": [
+          "Cardiac Transplant Date",
+          "Baseline O2 Sat",
+          "Cardiac Rejection Hx Comments"
+        ]
+      }
+    ]
+  ]
+}

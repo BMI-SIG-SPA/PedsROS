@@ -1,0 +1,20 @@
+{
+  "Pain Conditions": [
+    "Chronic pain",
+    "Chronic abdominal pain",
+    "Chronic back pain",
+    "Chronic headache",
+    "Complex regional pain syndrome",
+    "Fibromyalgia",
+    "Opioid addiction"
+  ],
+  "Active Pain Treatments": [
+    "Acupuncture",
+    "Bier blocks",
+    "Catheters",
+    "Chronic opioid therapy",
+    "Epidurals",
+    "Implanted pumps",
+    "Nerve blocks"
+  ]
+}

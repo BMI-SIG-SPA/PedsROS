@@ -1,0 +1,47 @@
+{
+  "Genetic Disorders/Syndromes": [
+    "22q11.2 deletion syndrome",
+    "Alagille syndrome",
+    "CHARGE association",
+    "Cornelia de Lange syndrome",
+    "Ehlers-Danlos syndrome",
+    "Maple syrup urine disease",
+    {
+      "Mucopolysaccharidosis syndromes": [
+        "Hunter's syndrome",
+        "Hurler's syndrome",
+        "Hurler-Scheie syndrome",
+        "Maroteaux-Lamy syndrome",
+        {
+          "Morquio syndrome": [
+            "Type A",
+            "Type B"
+          ]
+        },
+        "Natowicz syndrome",
+        {
+          "Sanfilippo syndrome": [
+            "Type A",
+            "Type B",
+            "Type C",
+            "Type D"
+          ]
+        },
+        "Scheie syndrome",
+        "Sly syndrome"
+      ]
+    },
+    "Neurofibromatosis",
+    "Noonan syndrome",
+    "Other chromosomal abnormalities",
+    "PKU",
+    "Prader-Willi syndrome",
+    "SMA",
+    "Trisomy 18",
+    "Trisomy 21",
+    "Tuberous sclerosis",
+    "Turner syndrome",
+    "VACTERL/VATER syndrome",
+    "Williams syndrome"
+  ]
+}

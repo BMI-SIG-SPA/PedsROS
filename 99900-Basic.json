@@ -1,0 +1,131 @@
+{
+  "General": [
+    "Unable to perform ROS",
+    "Reviewed Patient Summary",
+    "Reviewed Nursing Notes",
+    {
+      "Anesthetic Complications": [
+        "Malignant hyperthermia",
+        "Pseudocholinesterase deficiency"
+      ]
+    }
+  ],
+  "Growth and Development": [
+    {
+      "Premature newborn": [
+        "Conception Age (Weeks)"
+      ]
+    },
+    {
+      "Developmental delay": [
+        "cognitive delay",
+        "global delay",
+        "motor delay",
+        "psychological delay",
+        "speech delay"
+      ]
+    },
+    "Failure to thrive"
+  ],
+  "Neuro": [
+    "Seizures",
+    "Headaches",
+    "Hydrocephalus/VP shunt",
+    "Myelomeningocele",
+    "Neuromuscular disease",
+    "Spasticity",
+    "Hypotonia",
+    "Chronic pain",
+    "CVA",
+    "ADD",
+    "ADHD",
+    "Autism spectrum disorder",
+    "Concussion"
+  ],
+  "Cardiovascular": [
+    {
+      "Exercise Tolerance": [
+        "good",
+        "poor"
+      ]
+    },
+    "Atrial septal defect",
+    "Known benign murmur",
+    "Ventricular septal defect",
+    "Congenital heart disease",
+    {
+      "Artificial valve": [
+        {
+          "Valve Position": [
+            "aortic valve",
+            "mitral valve",
+            "pulmonary valve",
+            "tricuspid valve"
+          ]
+        },
+        "Anticoagulation therapy",
+        "Last Echo Date"
+      ]
+    }
+  ],
+  "Bronchopulmonary": [
+    "Recent upper respiratory infection",
+    "Asthma/RAD",
+    "Adenotonsillar hypertrophy",
+    "Obstructive sleep apnea",
+    "Chronic lung disease (BPD)",
+    "Restrictive lung disease",
+    "Cystic fibrosis",
+    "Sleep-disordered breathing"
+  ],
+  "GI": [
+    "GERD",
+    "Esophagitis",
+    {
+      "Inflammatory bowel disease": [
+        "Crohn's disease",
+        "Ulcerative colitis"
+      ]
+    }
+  ],
+  "Hepatic": [
+    "Hepatitis",
+    "Biliary atresia",
+    "Bhepatic/liver failure"
+  ],
+  "GU/Renal/Gyn": [
+    "Renal failure/insufficiency",
+    "Hypospadias",
+    "Vesicoureteral reflux"
+  ],
+  "Endo/Metabolic": [
+    "Diabetes mellitus",
+    "Hyperthyroid disease",
+    "Hypothyroid disease",
+    "Hypopituitary",
+    "Obesity",
+    "Metabolic disorder"
+  ],
+  "Hem/Onc": [
+    "Anemia",
+    "Coagulopathy",
+    "Leukemia",
+    "Bone marrow transplant",
+    "Mediastinal mass",
+    "Solid tumor"
+  ],
+  "Other": [
+    "Arthritis/inflammation",
+    {
+      "Vascular occlusion": [
+        "SVC",
+        "IVC",
+        "LFA",
+        "LFV",
+        "RFA",
+        "RFV"
+      ]
+    }
+  ]
+}
+
