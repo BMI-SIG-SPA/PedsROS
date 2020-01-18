@@ -10,6 +10,6 @@ Data made available using JSON file format (maintaned) and legacy formatted exce
 
 Contact: 
 <br>
-Jorge Galvez, M.D.
+<a href="https://aemail.com/5y9K">Jorge Galvez, M.D., M.B.I</a>
 <br>
 <a href="https://aemail.com/Z6Vw">Ali Hassanpour, M.D.</a>
